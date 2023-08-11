@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/pnrmmt/frontendmentor-junior-2)
+- Live Site URL: [Live site URL](https://pnrmmt.github.io/frontendmentor-junior-2/)
 
 ## My process
 
